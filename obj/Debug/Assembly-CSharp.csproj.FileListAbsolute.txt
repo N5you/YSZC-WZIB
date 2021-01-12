@@ -1,0 +1,2 @@
+E:\YSZC-WZIB\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\YSZC-WZIB\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

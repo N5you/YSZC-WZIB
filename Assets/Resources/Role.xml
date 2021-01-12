@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <ConvertObj>
+    
+    <role1>
+      <ico>1</ico>
+      <neme>黄花女</neme>
+      <description>女娲座下弟子，因助女娲补天，而修得人形，其本是黄花丛中一精灵</description>
+    </role1>
+    
+
+    <role8>
+      <ico>4</ico>
+      <neme>魔家妖尊</neme>
+      <description>天生好斗，始于盘古开天辟地前即已存在，十魔之一，法力无边，现已统帅群妖，具有吸人法力为己所用的本事</description>
+    </role8>
+
+    <role9>
+      <ico>5</ico>
+      <neme>妖家魔尊</neme>
+      <description>生性嗜杀，始于盘古开天辟地前即已存在，十魔之末，越战越勇，现已统帅群魔，具有吸食精血为己所用的能力</description>
+    </role9>
+
+    <role2>
+      <ico>2</ico>
+      <neme>我</neme>
+      <description>从次元的世界找回记忆，自信满满的打开重生之书，让我再次遇见了那次太阳黑子导致的风暴，电光火石之间，没能回到家，而是回到了远古时期，到了勇士之城</description>
+    </role2>
+
+    <role3>
+      <ico>3</ico>
+      <neme>九天玄女</neme>
+      <description>十魔治人无数载，今，上天以一句“人族当立”号令众生揭竿而起，十魔欲屠揭竿之人，命魔兽军团开拔至勇士之城，九天玄女不忍生灵涂炭，将死守于勇士之城</description>
+    </role3>
+    
+    <role603>
+      <ico>604</ico>
+      <neme>旁白</neme>
+      <description>长的和作者很像对吧，大致上有作者一半帅，是的哦，由他帮作者给你们讲解的</description>
+    </role603>
+
+    <role601>
+      <ico>601</ico>
+      <neme>泽萤</neme>
+      <description>九天玄女座下女童，原为精灵，因追随九天玄女修行数载，而幻化得人形</description>
+    </role601>
+
+    <role1024>
+      <ico>1024</ico>
+      <neme>勇士之城</neme>
+      <description>勇士之城义士多，英雄好汉齐来聚，要问妖魔何处止，打到城下便可知</description>
+    </role1024>
+
+  </ConvertObj>
